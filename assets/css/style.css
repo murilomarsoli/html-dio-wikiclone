@@ -54,7 +54,7 @@ figure {
     grid-gap: 3rem;
     display: grid;
     gap: 3rem;
-    grid-template-areas: "sidebar main anchors";
+    grid-template-areas: "aside main nav";
     grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
     padding-left: 1rem;
     padding-right: 1rem;
