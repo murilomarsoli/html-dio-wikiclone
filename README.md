@@ -2,6 +2,6 @@
 
 Clone do site "Wikipedia" com uma estrutura mais moderna, semântica ao código e adição de mídias.
 
-## Acesse a página: [https://murilomarsoli.github.io/html-dio-wikiclone/index.html](https://murilomarsoli.github.io/html-dio-wikiclone/index.html)
+## Acesse a página: [https://murilomarsoli.github.io/html-dio-wikiclone/](https://murilomarsoli.github.io/html-dio-wikiclone/)
 
 ![Homepage WikiClone](assets/images/imgGitHub.png)
